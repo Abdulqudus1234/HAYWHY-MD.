@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> Haywhy-Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> Haywhy-MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -145,7 +145,7 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Haywhy-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Hwywhy-Md at your own risk by keeping this warning in mind.*
 
