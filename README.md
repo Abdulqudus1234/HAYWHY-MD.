@@ -2,42 +2,42 @@
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/Abdulqudus1234/HAYWHY-MD..git">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/Abdulqudus1234/HAYWHY-MD.">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Haywhy-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+   <a href="https://https://github.com/Abdulqudus1234/HAYWHY-MD/HAYWHY-MD./fork">
+    <img src="https://img.shields.io/github/forks/Abdulqudus1234/HAYWHY-MD.?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+  <a href="https://github.com/Abdulqudus1234/HAYWHY-MD./stargazers"> 
+     <img src="https://img.shields.io/github/stars/Abdulqudus1234/HAYWHY-MD. ?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="HAYWHY-Md. is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{HAYWHY-MD.}/count.svg" alt="HAYWHY-MD.:: Visitor's Count" /></p>
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+ <a href="https://github.com/Abdulqudus1234">
+ <img title="Owner" src="https://img.shields.io/badge/Abdulqudus1234-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/Abdulqudus1234">
+    <img src="https://img.shields.io/github/followers/Abdulqudus1234?style=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Haywhy-MD whatsapp bot uses
+<p align="center"> HAYWHY-MD. whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,11 +63,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/Abdulqudus1234/HAYWHY-MD"><b>HAYWHY-MD. </b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Abdulqudus1234/HAYWHY-MD./blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
