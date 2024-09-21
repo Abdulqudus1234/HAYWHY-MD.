@@ -4,32 +4,25 @@
 //                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
+//                                          Haywhy-MD                                                   //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Haywhy-MD 
+   * @author : Haywhy
+   * @youtube : https://www.youtube.com/@Haywhy-MD
+   * @description : Haywhy-MD ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Haywhy.
+   * © 2024 Haywhy-MD.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Haywhy-MD = "Haywhy-MD Whatsapp bot"
 
 
 
