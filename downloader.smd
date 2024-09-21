@@ -5,28 +5,21 @@
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
+//                                         HAYWHY-MD                                                    //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name :HAYWHY-MD 
+   * @author : Haywhy
+   * @youtube : https://www.youtube.com/@Haywhy-MD 
+   * @description :Haywhy-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Haywhy.
+   * © 2024 Haywhy-MD.
 */
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let  Haywhy-MD = " Haywhy-MD Whatsapp bot"
 
 // let baseApi = process.env.API_SMD || global.api_smd || "https://api-smd-1.vercel.app" 
 
