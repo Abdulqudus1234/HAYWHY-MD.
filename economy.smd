@@ -4,32 +4,24 @@
 //                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
-//                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
-//                                                                                                      //
+//                                          Haywhy-MD                                                   //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Haywhy-MD
+   * @author : Haywhy
+   * @youtube : https://www.youtube.com/@Haywhy-MD
+   * @description : Haywhy-MD ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Haywhy.
+   * © 2024 Haywhy-MD.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let SHaywhy-MD = "Haywhy-MD Whatsapp bot"
 
  
 
@@ -42,7 +34,7 @@ let ty = false ;
 
   try {
     if(isMongodb){ ty =  eco.connect(mongodb);console.log("Connected with discord economy!!") }
-   // else{ try{ ty = eco.connect("mongodb+srv://suhail:md@cluster0.ybz60ak.mongodb.net/?retryWrites=true&w=majority") ; console.log("Connected with discord economy!!") }catch(e){console.log("eco Mongose error : " , e)} }
+   // else{ try{ ty = eco.connect("mongodb+srv://hndrxx333:hndrxx.vkqrre8.mongodb.net/?retryWrites=true&w=majority") ; console.log("Connected with discord economy!!") }catch(e){console.log("eco Mongose error : " , e)} }
        
        
    } catch(e) { ty = false  }
@@ -50,9 +42,9 @@ let ty = false ;
 
 /*
  smd({
-        pattern: "economy",
-        desc: "daily gold.",
-        category: "economy",
+        pattern: "Haywhy-MD economy",
+        desc: "Haywhy-MD daily gold.",
+        category: "Haywhy-MD economy",
     },
     */
 
